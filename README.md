@@ -1,4 +1,4 @@
-# Data-Architect-Procedure-for-Building-a-Logical-Data-Model-with-ER-Studio
+# Data-Architect-Procedure-for-Designing-a-Logical-Data-Model-with-ER-Studio
 
 
 ### **OVERVIEW**
@@ -84,20 +84,20 @@ After installing ER/Studio and obatining required licenses, Data Architects and 
 ![Image](https://github.com/user-attachments/assets/7f10e4f2-88a0-48a4-813a-b15cb6209edd)
 
 ---
-#### Employee is the most important entity in  Business Data Object. Set it as the Anchor object
+#### Employee is the most important entity in  Business Data Objects (BDOs). Set it as the Anchor object
 
 ![Image](https://github.com/user-attachments/assets/028e1258-d0c5-4022-9abd-9c41b3e14a97)
 
 ---
-
+#### Repeat same for other BDOs. Select and set the Anchor object
 ![Image](https://github.com/user-attachments/assets/613e6cea-9bb7-4929-9a8c-fe476a81fdcb)
 
 ---
-
+#### Repeat same for other BDOs. Select and set the Anchor object
 ![Image](https://github.com/user-attachments/assets/c174d114-1a9a-4824-8470-ac1265b153f5)
 
 ---
-
+#### Click and type primary keys for each object e.g. Employee Number
 ![Image](https://github.com/user-attachments/assets/c3e9f4aa-6fa1-45eb-a5c0-2b6161e78fee)
 
 ---
