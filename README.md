@@ -1,4 +1,4 @@
-# Data-Architect-Procedure-for-Designing-a-Logical-Data-Model-with-ER-Studio
+# Data-Architect-Procedure-for-Designing-a-Scalable-Logical-Data-Model-with-ER-Studio
 
 
 ### **OVERVIEW**
@@ -102,14 +102,15 @@ After installing ER/Studio and obatining required licenses, Data Architects and 
 
 ---
 
+#### Shift + click inside Employee Number and use arrow down to type non key attributes
 ![Image](https://github.com/user-attachments/assets/e170abd5-87c3-4dd5-8c48-0d4a0ddbfdb6)
 
 ---
-
+#### Click inside Employee Number and use arrow down to type non key attributes
 ![Image](https://github.com/user-attachments/assets/9506b0e0-c1c1-4c87-b68e-a01e1ee5383e)
 
 ---
-
+#### Click below the line and type more non-key attributes
 ![Image](https://github.com/user-attachments/assets/0131e34a-7ed3-41bb-a079-38f81b2c8fbe)
 
 ---
