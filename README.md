@@ -1,10 +1,6 @@
 # Data-Architect-Procedure-for-Building-a-Logical-Data-Model-with-ER-Studio
 
 
-
-
-
-
 ### **OVERVIEW**
 In this discourse, we show the procedures of building a Logical Data Model (LDM) of a company's employee database including the Employees' names, Skills etc. The procedures is shown in form of process infographics.
 
@@ -20,12 +16,7 @@ After installing ER/Studio and obatining required licenses, Data Architects and 
 
 ---
 
-Open the ER/Studio software, go to file and select new
-
-![Image](https://github.com/user-attachments/assets/02f02007-5998-4732-8ba2-d5c62a87215e)
----
-
-Select Relational (for reational databases)
+Open the ER/Studio software, go to file and select new. Select Relational (for reational databases)
 
 ![Image](https://github.com/user-attachments/assets/8b5a656e-a0a1-4b98-b4b0-087ee42a9896)
 
@@ -245,7 +236,7 @@ Author's Background
 ```
 
 Author's Name:  Emmanuel Oyekanlu
-Skillset:   I have experience spanning several years in developing scalable enterprise data pipelines, architecting enterprise data solutions, deep learning and LLM applications as well as deploying solutions (apps) on-prem and in the cloud. I can be reached through: manuelbomi@yahoo.com
+Skillset:   I have experience spanning several years in developing scalable enterprise data pipelines, architecting enterprise data solutions, data engineering, deep learning and LLM applications as well as deploying solutions (apps) on-prem and in the cloud. I can be reached through: manuelbomi@yahoo.com
 Website:  http://emmanueloyekanlu.com/
 Publications:  https://scholar.google.com/citations?user=S-jTMfkAAAAJ&hl=en
 LinkedIn:  https://www.linkedin.com/in/emmanuel-oyekanlu-6ba98616
