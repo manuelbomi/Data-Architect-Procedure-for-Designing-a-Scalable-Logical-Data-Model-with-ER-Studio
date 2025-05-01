@@ -217,35 +217,36 @@ After installing ER/Studio and obatining required licenses, Data Architects and 
 ![Image](https://github.com/user-attachments/assets/cbe1bd3e-f23a-4594-bf2e-67ed73832f34)
 
 ---
-
+#### Select Identifying relationships between Skill and Employee Skill Matrix and between Employee and Employee skill matrix
 ![Image](https://github.com/user-attachments/assets/8bb25e49-3f6b-4b57-a3c5-f4f219d1cd83)
 
 ---
 
+#### Identifying relationship between Skill and Employee Skill Matrix
 ![Image](https://github.com/user-attachments/assets/c0834421-04ae-48a8-a312-a9be17001301)
 
 ---
-
+#### Contractor and Agency relationship phrases
 ![Image](https://github.com/user-attachments/assets/d8780ae2-228c-42cb-88f3-7490e8995ed0)
 
 ---
-
+#### The complete Logical model
 ![Image](https://github.com/user-attachments/assets/59f9d6ed-034a-4afa-a0a8-e5cffbce3c31)
 
 ---
-
+#### The complete saved model
 ![Image](https://github.com/user-attachments/assets/59e6ef80-f74d-44ce-b5c7-614d77a960ac)
 
 ---
-
+#### A view of the Data model 
 ![Image](https://github.com/user-attachments/assets/590bfc63-307d-44e7-b9da-4623b8e201ca)
 
 ---
-
+#### A view of the Data model 
 ![Image](https://github.com/user-attachments/assets/315c251e-03e5-4f2d-bbf1-bd4072575088)
 
 ---
-
+#### Data Dictionary view
 ![Image](https://github.com/user-attachments/assets/5e27e004-1419-47f1-ab5a-04dfcf5e1eef)
 
 ===
