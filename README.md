@@ -200,19 +200,19 @@ After installing ER/Studio and obatining required licenses, Data Architects and 
 ![Image](https://github.com/user-attachments/assets/bb6aec76-f77b-42c6-81de-521e96b386d2)
 
 ---
-
+#### Select Identifying relationship between 'Full Time Employee' to 'Training History' , 'Training Course' ; also 'ID' and  'Training History'
 ![Image](https://github.com/user-attachments/assets/aacfbd61-aeff-4336-a0ff-24f7079f77be)
 
 ---
-
+#### Skills can be delivered by training courses and vice versa
 ![Image](https://github.com/user-attachments/assets/1157a50f-a7a5-4e0e-bc58-5d2023d49f7d)
 
 ---
-
+#### Select appropriate for skill and training courses
 ![Image](https://github.com/user-attachments/assets/4e43c25b-539a-4c46-9d50-dc246b332fa8)
 
 ---
-
+#### Select appropriate for skill and training courses
 ![Image](https://github.com/user-attachments/assets/cbe1bd3e-f23a-4594-bf2e-67ed73832f34)
 
 ---
