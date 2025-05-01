@@ -2,7 +2,7 @@
 
 
 ### **OVERVIEW**
-In this discourse, we show the procedures of building a Logical Data Model (LDM) of a company's employee database including the Employees' names, Skills etc. The procedures is shown in form of process infographics.
+In this discourse, we show the procedures of building a Logical Data Model (LDM) of a company's employee database including the Employees' names, Skills, Department, Agency that provides the Employee and the set of Training Courses for each Employee. The procedures is shown in form of process infographics.
 
 In subsequent discourses, we shall show how to convert the LDM to a Physical Data Model (PDM) and how to write the PDM into a database. 
 
@@ -16,15 +16,17 @@ After installing ER/Studio and obatining required licenses, Data Architects and 
 
 ---
 
-Open the ER/Studio software, go to file and select new. Select Relational (for reational databases)
+Open the ER/Studio software, go to file and select new. Select Relational (for relational databases)
 
 ![Image](https://github.com/user-attachments/assets/8b5a656e-a0a1-4b98-b4b0-087ee42a9896)
 
 ---
+Right click main model and click Create Submodel
 
 ![Image](https://github.com/user-attachments/assets/35f1d531-5a27-4f72-870f-635a058a23f4)
 
 ---
+Name the submodel as 'Training'
 
 ![Image](https://github.com/user-attachments/assets/18011a1d-d205-4be2-8be4-41f92ee02cc7)
 
