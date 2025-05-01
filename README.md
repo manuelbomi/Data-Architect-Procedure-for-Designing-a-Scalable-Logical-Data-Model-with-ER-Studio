@@ -230,7 +230,7 @@ After installing ER/Studio and obatining required licenses, Data Architects and 
 ![Image](https://github.com/user-attachments/assets/d8780ae2-228c-42cb-88f3-7490e8995ed0)
 
 ---
-#### The complete Logical model
+#### The complete Logical Model
 ![Image](https://github.com/user-attachments/assets/59f9d6ed-034a-4afa-a0a8-e5cffbce3c31)
 
 ---
@@ -242,16 +242,14 @@ After installing ER/Studio and obatining required licenses, Data Architects and 
 ![Image](https://github.com/user-attachments/assets/590bfc63-307d-44e7-b9da-4623b8e201ca)
 
 ---
-#### A view of the Data model 
+#### A view of the Data Model 
 ![Image](https://github.com/user-attachments/assets/315c251e-03e5-4f2d-bbf1-bd4072575088)
 
 ---
 #### Data Dictionary view
 ![Image](https://github.com/user-attachments/assets/5e27e004-1419-47f1-ab5a-04dfcf5e1eef)
 
-===
 
-![Image](https://github.com/user-attachments/assets/99ca2f1a-8902-484a-9ad6-e956d21ac117)
 
 
 
@@ -265,7 +263,7 @@ Author's Background
 ```
 
 Author's Name:  Emmanuel Oyekanlu
-Skillset:   I have experience spanning several years in developing scalable enterprise data pipelines, architecting enterprise data solutions, data engineering, deep learning and LLM applications as well as deploying solutions (apps) on-prem and in the cloud. I can be reached through: manuelbomi@yahoo.com
+Skillset:   I have experience spanning several years in developing scalable enterprise data pipelines, architecting enterprise data solutions, data engineering, machine learning, NLP and LLM applications as well as deploying scalable solutions (apps) on-prem and in the cloud. I can be reached through: manuelbomi@yahoo.com
 Website:  http://emmanueloyekanlu.com/
 Publications:  https://scholar.google.com/citations?user=S-jTMfkAAAAJ&hl=en
 LinkedIn:  https://www.linkedin.com/in/emmanuel-oyekanlu-6ba98616
