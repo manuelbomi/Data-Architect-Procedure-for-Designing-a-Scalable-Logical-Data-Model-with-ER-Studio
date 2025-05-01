@@ -129,10 +129,11 @@ After installing ER/Studio and obatining required licenses, Data Architects and 
 ![Image](https://github.com/user-attachments/assets/5274a394-3e5e-4c27-a43e-cf852df3f0b4)
 
 ---
-
+#### Click to specify the relationships. Select the Complete Subtype Cluster type
 ![Image](https://github.com/user-attachments/assets/d8a1c2f4-99d6-4255-a34e-d87e8269706b)
 
 ---
+#### Establish the Employee relationships
 
 ![Image](https://github.com/user-attachments/assets/386ed09b-8345-4854-b4aa-df137576df76)
 
