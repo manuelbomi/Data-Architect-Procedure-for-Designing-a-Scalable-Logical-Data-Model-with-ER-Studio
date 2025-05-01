@@ -35,13 +35,18 @@ After installing ER/Studio and obatining required licenses, Data Architects and 
 
 ---
 
+#### Go to shapes and select Title Block
+
 ![Image](https://github.com/user-attachments/assets/7d754d97-0728-4a2a-8210-ad6d2591d050)
 
 ---
 
+####  Add a Business Data Object and name it Employee
+
 ![Image](https://github.com/user-attachments/assets/3f311e3f-2c30-449a-aa12-a0238910cdce)
 
 ---
+#### Right click on Business Data Object and select New Business Data Object
 
 ![Image](https://github.com/user-attachments/assets/4d57b49b-e8d4-49a7-97e8-bd5f081b2500)
 
