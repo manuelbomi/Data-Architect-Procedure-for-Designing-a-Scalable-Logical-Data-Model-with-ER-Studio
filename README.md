@@ -46,15 +46,17 @@ After installing ER/Studio and obatining required licenses, Data Architects and 
 
 ---
 
-
+#### Name it Department
 ![Image](https://github.com/user-attachments/assets/4d57b49b-e8d4-49a7-97e8-bd5f081b2500)
 
 ---
 
+#### Create more Business Data Objects and name them
+
 ![Image](https://github.com/user-attachments/assets/e07e7bd8-5c3e-49ff-8fdc-acb054e668fe)
 
 ---
-
+#### Create sub entities under Employees and name them
 ![Image](https://github.com/user-attachments/assets/abeb23a5-0992-4197-b172-2a28a854b5df)
 
 ---
