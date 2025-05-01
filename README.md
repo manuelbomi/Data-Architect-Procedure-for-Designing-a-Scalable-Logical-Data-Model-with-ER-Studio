@@ -114,14 +114,17 @@ After installing ER/Studio and obatining required licenses, Data Architects and 
 ![Image](https://github.com/user-attachments/assets/0131e34a-7ed3-41bb-a079-38f81b2c8fbe)
 
 ---
-
+#### Each attribute can be edited by double clicking on them
 ![Image](https://github.com/user-attachments/assets/4682cdbd-743e-4995-b356-bd3dd45ff5d0)
 
 ---
 
+#### Developers can also double click and use the 'Add' button to add attributes to the Entities if the click + shift option doesn't work
+
 ![Image](https://github.com/user-attachments/assets/d4a0478c-7acd-4993-9439-3f5c19227e3a)
 
 ---
+#### Add other entities attributes
 
 ![Image](https://github.com/user-attachments/assets/5274a394-3e5e-4c27-a43e-cf852df3f0b4)
 
