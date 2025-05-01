@@ -16,22 +16,17 @@ After installing ER/Studio and obatining required licenses, Data Architects and 
 
 ---
 
-Open the ER/Studio software, go to file and select new. Select Relational (for relational databases)
+#### Open the ER/Studio software, go to file and select new. Select Relational (for relational databases)
 
 ![Image](https://github.com/user-attachments/assets/8b5a656e-a0a1-4b98-b4b0-087ee42a9896)
 
 ---
-Right click main model and click Create Submodel
 
-![Image](https://github.com/user-attachments/assets/35f1d531-5a27-4f72-870f-635a058a23f4)
-
----
-Name the submodel as 'Training'
-
+#### Right click main model and click Create Submodel
 ![Image](https://github.com/user-attachments/assets/18011a1d-d205-4be2-8be4-41f92ee02cc7)
 
 ---
-
+#### Name the submodel as 'Training'
 ![Image](https://github.com/user-attachments/assets/364e3367-8a27-4037-9751-40d0d29df19f)
 
 ---
