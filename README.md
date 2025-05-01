@@ -138,51 +138,65 @@ After installing ER/Studio and obatining required licenses, Data Architects and 
 ![Image](https://github.com/user-attachments/assets/386ed09b-8345-4854-b4aa-df137576df76)
 
 ---
-
+#### Double click. The discriminator can be Employee type
 ![Image](https://github.com/user-attachments/assets/f085d9d8-5120-4874-a095-59e85a645df9)
 
 ---
+
+#### Select Non ID Mandatory relationship between Address to Employee
 
 ![Image](https://github.com/user-attachments/assets/ba99adb1-1bda-4bfe-8101-f90db8570934)
 
 ---
 
+####  Double click the relationship editor
 ![Image](https://github.com/user-attachments/assets/cae1e73d-9958-42a0-aad7-4cdd0571e59e)
 
 ---
+
+#### Select the appropriate phrases viz: 'located' and 'located at'
 
 ![Image](https://github.com/user-attachments/assets/1b85d706-8712-4192-b264-dd3c2a6cb267)
 
 ---
 
+#### Select another Non ID mandatory relationship from Dept to Employee
 ![Image](https://github.com/user-attachments/assets/ceb76fb7-9829-4d3f-92f3-d16c2e43f634)
 
 ---
-
+#### Specify another optional relationship from Dept to Employee
 ![Image](https://github.com/user-attachments/assets/57b1423b-9353-4703-8078-2a5ff6eb94a1)
 
 ---
 
+#### Set the relationships phrases (i.e: 'managed' and 'managed by')
 ![Image](https://github.com/user-attachments/assets/4e8102a2-43fe-4cca-917f-d4dfd1a329ac)
 
 ---
+
+#### For the role named on the first relationship, double click on the ID and set the name as member
 
 ![Image](https://github.com/user-attachments/assets/8d76b9c8-56f1-4bc3-8822-f9b692bdc41c)
 
 ---
 
+#### For the role name on the first relationship, double click on the ID
 ![Image](https://github.com/user-attachments/assets/c6ff1534-e99d-430d-aec4-57854aba9fed)
 
 ---
+#### Set role name for the first relationship, and set phrases between Dept and Employee
+
 
 ![Image](https://github.com/user-attachments/assets/479f676e-f394-4c6e-b986-6880847734c8)
 
 ---
 
+#### Set role name for the first relationship, and set phrases between Dept and Employee
+
 ![Image](https://github.com/user-attachments/assets/7753c54a-72d0-4818-8103-29b0e34ee53c)
 
 ---
-
+#### We now have two  Foreign Key relationships from Employee to Dept
 ![Image](https://github.com/user-attachments/assets/bb6aec76-f77b-42c6-81de-521e96b386d2)
 
 ---
