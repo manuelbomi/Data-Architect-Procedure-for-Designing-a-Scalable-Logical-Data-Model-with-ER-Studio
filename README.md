@@ -61,25 +61,30 @@ After installing ER/Studio and obatining required licenses, Data Architects and 
 
 ---
 
+#### Create more entities and name them
+
 ![Image](https://github.com/user-attachments/assets/c8f2b1ec-b6b9-4b1d-a71c-9bd7e4a807d5)
 
 ---
+#### To add our entities to the Business Data Objects: press ctrl and click on all the entities
 
 ![Image](https://github.com/user-attachments/assets/35d122cf-5337-4186-a360-92a4e365106f)
 
 ---
-
+#### Right click and add to the Business Data Object
 ![Image](https://github.com/user-attachments/assets/aba70986-f558-4325-b09d-2f79b594f294)
 
 ---
+#### We can now edit the Business Data Object
 
 ![Image](https://github.com/user-attachments/assets/46504412-2fc9-4d20-a071-e8063c9ec5e0)
 
 ---
-
+####  Edit the Business Data Object
 ![Image](https://github.com/user-attachments/assets/7f10e4f2-88a0-48a4-813a-b15cb6209edd)
 
 ---
+#### Employee is the most important entity in  Business Data Object. Set it as the Anchor object
 
 ![Image](https://github.com/user-attachments/assets/028e1258-d0c5-4022-9abd-9c41b3e14a97)
 
