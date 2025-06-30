@@ -1,4 +1,4 @@
-# Data Architect Procedure for Designing a Scalable Logical Data Model with ER Studio
+# Data Architect Procedure for Designing a Scalable Logical Data Model with ER-Studio
 
 
 ### **OVERVIEW**
